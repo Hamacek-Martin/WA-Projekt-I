@@ -6,7 +6,7 @@ Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_
 
 
 Pokyny k práci:
-- v projektu je jeden CSS soubor (stylopis.css) se základním rozvržením stránky do kterého **smíte pouze připsat některé vlastnosti, NE ho celý měnit (budete na to mít vyhrazené místo v souboru) další vlastnosti připisujte od řádku 165 (verze pro PC), od řádku 205 (pro tablet) a od řádku 277 (pro mobilní zařízení)**
+- v projektu je jeden CSS soubor (stylopis.css) se základním rozvržením stránky do kterého **smíte pouze připsat některé vlastnosti, NE ho celý měnit (budete na to mít vyhrazené místo v souboru) další vlastnosti připisujte od řádku 165 (verze pro PC), od řádku 208 (pro tablet) a od řádku 280 (pro mobilní zařízení)**
 
 - Každý spolupracovník bude mít přidělené dvě stránky na vytvoření (původně měl projekt 4 stránky ale musel jsem počet navýšit na 6 aby došlo k rovnoměrné práci na projektu)
 
