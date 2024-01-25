@@ -1,7 +1,7 @@
 # WA-Projekt-I
 Název úkolu: Závěrečné kódování
 
-Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_ okótovaný návrh je jen pro PC, u tabletu a mobilních zařízení jenom záleží jak se poskladájí. Základní pravidlo je to, že **každý obsah, který je v prostředním okně má vnitřní okraj (padding) 22px**
+Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_ okótovaný návrh je jen pro PC, u tabletu a mobilních zařízení jenom záleží jak se poskladájí.
 
 
 
