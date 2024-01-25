@@ -1,12 +1,14 @@
 # WA-Projekt-I
 Název úkolu: Závěrečné kódování
 
-**Obrázek grafiky s rozměry a zbylé informace budou k dispozici nejpozději do konce týdne (do 26. ledna 2024)**
+Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_ okótovaný návrh je jen pro PC, u tabletu a mobilních zařízení jenom záleží jak se poskladájí. Základní pravidlo je to, že**každý obsah, který je v prostředním okně má vnitřní okraj (padding) 22px**
+
+
 
 Pokyny k práci:
 - v projektu je jeden CSS soubor (stylopis.css) se základním rozvržením stránky do kterého **smíte pouze připsat některé vlastnosti, NE ho celý měnit (budete na to mít vyhrazené místo v souboru)**
 
-- Každý spolupracovník bude mít přidělené dvě stránky na vytvoření (původně měl projekt 4 stránky ale musel jsem počet navýšit na 6 aby došlo rovnoměrnosti práce projektu)
+- Každý spolupracovník bude mít přidělené dvě stránky na vytvoření (původně měl projekt 4 stránky ale musel jsem počet navýšit na 6 aby došlo k rovnoměrné práci na projektu)
 
 - Na Moodle je jako odevzdání první verze nastaveno (stav k 23. 1. 2024) na 16. 2. 2024 22:00
   - Termín odevzdání první verze stanovuji na **10. února 2024**
@@ -18,15 +20,18 @@ Pokyny k práci:
 - doporučuji se kouknout na soubor _vzhledwebu.pdf_ abyste byli seznámeni s grafikou
 
 ----
+Číslo za pomlčkou značí číslo stránky v souboru _navrh-okotovane.png_
 
-Rozdělení stránek:
+Rozdělení stránek: 
 
 - Martin Hamacek:
-  - moje tvorba (tvorba.html)
-  - kontakt (kontakt.html)
+  - moje tvorba (tvorba.html) - 1
+  - kontakt (kontakt.html) - 4
 - Matyáš Koppel: 
-  - moje názory (mnazory.html)
-  - podstránka k názoru (nazor.html)
+  - moje názory (mnazory.html) - 2
+  - podstránka k názoru (nazor.html) - 3
 - Ondřej Šprungl
-  - hlavní stránka (index.html)
-  - krátké zprávy (krtkzprav.html)
+  - hlavní stránka (index.html) - 0
+  - krátké zprávy (krtkzprav.html) - 5
+
+Layout stránek 4 a 5 bude k dispozici v jiném souboru
