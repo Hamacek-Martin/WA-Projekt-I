@@ -1,12 +1,12 @@
 # WA-Projekt-I
 Název úkolu: Závěrečné kódování
 
-Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_ okótovaný návrh je jen pro PC, u tabletu a mobilních zařízení jenom záleží jak se poskladájí. Základní pravidlo je to, že**každý obsah, který je v prostředním okně má vnitřní okraj (padding) 22px**
+Soubor grafického návrhu včetně okótování je soubor _navrh-okotovane.png_ okótovaný návrh je jen pro PC, u tabletu a mobilních zařízení jenom záleží jak se poskladájí. Základní pravidlo je to, že **každý obsah, který je v prostředním okně má vnitřní okraj (padding) 22px**
 
 
 
 Pokyny k práci:
-- v projektu je jeden CSS soubor (stylopis.css) se základním rozvržením stránky do kterého **smíte pouze připsat některé vlastnosti, NE ho celý měnit (budete na to mít vyhrazené místo v souboru)**
+- v projektu je jeden CSS soubor (stylopis.css) se základním rozvržením stránky do kterého **smíte pouze připsat některé vlastnosti, NE ho celý měnit (budete na to mít vyhrazené místo v souboru) další vlastnosti připisujte od řádku 165 (verze pro PC), od řádku 205 (pro tablet) a od řádku 277 (pro mobilní zařízení)**
 
 - Každý spolupracovník bude mít přidělené dvě stránky na vytvoření (původně měl projekt 4 stránky ale musel jsem počet navýšit na 6 aby došlo k rovnoměrné práci na projektu)
 
