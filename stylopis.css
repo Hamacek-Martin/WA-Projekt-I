@@ -115,6 +115,7 @@ hr{
 	
 }
 .obsah{
+	padding:22px;
 }
 
 .odkz{
@@ -202,6 +203,7 @@ a:visited{
 		.obsah{
 			grid-column-start: 1;
 			grid-column-end: 4;
+			padding:22px;
 		}
 		/*na další řádek doplňte svůj kód*/
 		
@@ -239,6 +241,7 @@ a:visited{
 	.obsah{
 		grid-column-start: 1;
 		grid-column-end: 4;
+		padding:22px;
 	}
 
 	.odkazy{
