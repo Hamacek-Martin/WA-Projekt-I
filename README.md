@@ -19,7 +19,7 @@ Pokyny k práci:
 
 - doporučuji se kouknout na soubor _vzhledwebu.pdf_ abyste byli seznámeni s grafikou
 
-- jako **inspiraci** pro vytvoření stránky můžeze použit soubor _tvorba.html_
+- jako **inspiraci** pro vytvoření stránky můžete použit soubor _tvorba.html_
 
 ----
 Číslo za pomlčkou značí číslo stránky v souboru _navrh-okotovane.png_
