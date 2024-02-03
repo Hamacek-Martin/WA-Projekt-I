@@ -21,6 +21,8 @@ Pokyny k práci:
 
 - jako **inspiraci** pro vytvoření stránky můžete použit soubor _tvorba.html_
 
+- **kdyby něco nebylo jasné tak mě kontaktuje na discordu nebo emailem na _hamacekmar@gmail.com_ **
+
 ----
 Číslo za pomlčkou značí číslo stránky v souboru _navrh-okotovane.png_
 
