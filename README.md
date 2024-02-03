@@ -11,7 +11,7 @@ Pokyny k práci:
 - Každý spolupracovník bude mít přidělené dvě stránky na vytvoření (původně měl projekt 4 stránky ale musel jsem počet navýšit na 6 aby došlo k rovnoměrné práci na projektu)
 
 - Na Moodle je jako odevzdání první verze nastaveno (stav k 23. 1. 2024) na 16. 2. 2024 22:00
-  - Termín odevzdání první verze stanovuji na **10. února 2024**
+  - Termín odevzdání první verze stanovuji na **14. února 2024**
 - Na Moodle je jako odevzdání závěr nastaveno (stav k 23. 1. 2024) na 29. 2. 2024 22:00
   - Termín odevzdání poslední verze stanovuji na **25. února 2024**
 
