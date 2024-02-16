@@ -171,17 +171,8 @@ a{
 a:visited{
 	text-decoration:none;
 }
-/*na další řádek doplňte svůj kód*/
 
-
-@media only screen and (max-width: 1025px){
-		.grid-kontejner{
-			display:grid;
-			grid-template-columns:auto;
-			
-		}
-
-	.dlazdiceII{
+.dlazdiceII{
     background-color:#DBEFF9;
     color:#0B5394;
     margin-right:11px;
@@ -192,7 +183,14 @@ a:visited{
 .dlazdiceII a{
     font-weight:normal;
 }
-		
+
+@media only screen and (max-width: 1025px){
+		.grid-kontejner{
+			display:grid;
+			grid-template-columns:auto;
+			
+		}
+	
 		.nezobrazit{
 			display:none;
 		}
