@@ -180,6 +180,18 @@ a:visited{
 			grid-template-columns:auto;
 			
 		}
+
+	.dlazdiceII{
+    background-color:#DBEFF9;
+    color:#0B5394;
+    margin-right:11px;
+    margin-top:11px;
+    padding:9px;
+}
+
+.dlazdiceII a{
+    font-weight:normal;
+}
 		
 		.nezobrazit{
 			display:none;
