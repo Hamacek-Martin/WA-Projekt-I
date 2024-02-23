@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="cs">
 <head>
 <link rel="stylesheet" type="text/css" href="stylopis.css">
 <title>hamacekm-blog.cz - Výtvor č. <?php echo $_GET['id'];?></title>
