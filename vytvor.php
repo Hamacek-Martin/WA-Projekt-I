@@ -2,7 +2,7 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="stylopis.css">
-<title>hamacekm-blog.cz - Hlavní stránka</title>
+<title>hamacekm-blog.cz - Výtvor č. <?php echo $_GET['id'];?></title>
 <meta charset="UTF-8">
 <meta name="viewport" content="widht=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
