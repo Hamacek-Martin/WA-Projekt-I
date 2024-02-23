@@ -58,7 +58,7 @@ hr{
 
 .odkazy{
 	display:grid;
-	grid-template-columns:auto auto auto auto auto auto;
+	grid-template-columns:auto auto auto auto auto;
 	margin-top:auto;
 	margin-bottom:auto;	
 	height:100%;
