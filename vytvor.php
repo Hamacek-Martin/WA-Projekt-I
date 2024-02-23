@@ -70,7 +70,7 @@ try{
 
 <?php
 }catch(Exception $e){
-	echo $e; //výpis výjimky
+	echo $e->getMessage(); //výpis výjimky
 }
 ?>
 <br>
