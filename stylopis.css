@@ -16,6 +16,10 @@ body {
 .nezobrazit{
 }
 
+ul{
+  list-style-type: square;
+}
+
 .hlavicnazev{
 	height:107px;
 	white-space: nowrap;
