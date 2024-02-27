@@ -15,7 +15,7 @@ Pokyny k práci:
 - Na Moodle je jako odevzdání první verze nastaveno (stav k 23. 1. 2024) na 16. 2. 2024 22:00
   - Termín odevzdání první verze stanovuji na ~~**10. února 2024**~~ z časových důvodu prodlouženo na **14. února 2024**
 - Na Moodle je jako odevzdání závěr nastaveno (stav k 23. 1. 2024) na 29. 2. 2024 22:00
-  - Termín odevzdání poslední verze stanovuji na **25. února 2024**
+  - Termín odevzdání poslední verze stanovuji na ~~**25. února 2024**~~  z časových důvodu prodlouženo na **29. února 2024 21:00**
 
 - **Jako výplňový text využíjte generátor pseudo textu např. [lorem ipsum](https://cs.wikipedia.org/wiki/Lorem_ipsum)**
 
